@@ -59,7 +59,25 @@ showcase: |
   <li><a href="https://twitter.com/ubuntu">twitter.com/ubuntu</a></li>
 
 
+  <style>
+    body {
+      color: #111111;
+    }
+    .jumbotron {
+      background-color: #E95420;
+      color: #fff
+    }
+    .card {
+      border-color: #E95420;
+    }
 
+    a:link {
+      color: #06c;
+    }
+    a:visited {
+      color: #772953;
+    }
+  </style>
 
 
 
