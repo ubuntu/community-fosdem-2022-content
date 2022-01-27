@@ -79,10 +79,46 @@ showcase: |
     }
   </style>
 
+  <script>
+    console.log(`%c
+                              .-/+oossssoo+/-.
+                          \`:+ssssssssssssssssss+:\`
+                        -+ssssssssssssssssssyyssss+-
+                      .ossssssssssssssssssdMMMNysssso.
+                    /ssssssssssshdmmNNmmyNMMMMhssssss/
+                    +ssssssssshmydMMMMMMMNddddyssssssss+
+                  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/
+                  .ssssssssdMMMNhsssssssssshNMMMdssssssss.
+                  +sssshhhyNMMNyssssssssssssyNMMMysssssss+
+                  ossyNMMMNyMMhsssssssssssssshmmmhssssssso
+                  ossyNMMMNyMMhsssssssssssssshmmmhssssssso
+                  +sssshhhyNMMNyssssssssssssyNMMMysssssss+
+                  .ssssssssdMMMNhsssssssssshNMMMdssssssss.
+                  /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+                    +sssssssssdmydMMMMMMMMddddyssssssss+
+                    /ssssssssssshdmNNNNmyNMMMMhssssss/
+                      .ossssssssssssssssssdMMMNysssso.
+                        -+sssssssssssssssssyyyssss+-
+                          \`:+ssssssssssssssssss+:\`
+                              .-/+oossssoo+/-.
+  %c
+   _    _      _ _          _____                                      _ _
+  | |  | |    | | |        / ____|                                    (_) |
+  | |__| | ___| | | ___   | |     ___  _ __ ___  _ __ ___  _   _ _ __  _| |_ _   _
+  |  __  |/ _ \\ | |/ _ \\  | |    / _ \\| '_ \` _ \\| '_ \` _ \\| | | | '_ \\| | __| | | |
+  | |  | |  __/ | | (_) | | |___| (_) | | | | | | | | | | | |_| | | | | | |_| |_| |
+  |_|  |_|\\___|_|_|\\___/   \\_____\\___/|_| |_| |_|_| |_| |_|\\__,_|_| |_|_|\\__|\\__, |
+                                                                              __/ |
+                                                                              |___/ \
 
 
-new_this_year: "
-<p>Ubuntu has some new stuff to show this year</p>
-"
+  `, "color: #E95420","color: ;")
+  </script>
+
+
+
+new_this_year: |
+  <p>Ubuntu has some new stuff to show this year</p>
+  <p style="color: #F2F1F0"><br><br>Have you looked into dev tools?</p>
 
 ---
