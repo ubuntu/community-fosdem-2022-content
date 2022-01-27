@@ -23,6 +23,18 @@ description: |
 
 
 showcase: |
+
+  <h3>Live events (WIP)</h3>
+  <ul>
+    <li>
+      Saturday, February 5, 1:00 PM (CET):<br>
+      Contributing to Open Source Projects with Ubuntu, Nextcloud, and Collabora, by PS</li>
+    <li>
+      Sunday, February 6, x:00 PM (CET):<br>
+      Setting up a Nextcloud Instance with Collabora on Ubuntu
+    </li>
+  </ul>
+
   <h3>More on Ubuntu</h3>
 
   <p>
