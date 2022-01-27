@@ -181,7 +181,15 @@ showcase: |
 
 
 new_this_year: |
-  <p>Ubuntu has some new stuff to show this year</p>
+  <ul>
+    <li>LTS goodness</li>
+    <li>beginning of a new broad developement cycle that will ultimately lead to a new LTS</li>
+    <li>way more Community actitivities, and participation on Ubuntu, giving a voice to all stakeholders</li>
+    <li>Ubucons</li>
+    <li>More architectural support + RISC-V (?)</li>
+    <li>Flutter</li>
+  </ul>
+
   <p style="color: #F2F1F0"><br><br>Have you looked into dev tools?</p>
 
 ---
