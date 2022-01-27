@@ -21,6 +21,8 @@ description: |
     As a result, Ubuntu is far bigger and more interesting than anything a single company could produce.
   </p>
 
+
+showcase: |
   <p>
     Our mission is to bring the best of Free Software to the widest audience.
     Bringing down barriers and empower individuals and communities, to strive on the modern world.
@@ -46,8 +48,6 @@ description: |
     and other projects to augment the technical diversity and freedom of choice within the Ubuntu universe.
   </p>
 
-showcase: |
-  <p>We can show here what we have at fosdem</p>
   <h3>What are we doing at FOSDEM?</h3>
   <p>Show things and other things</p>
   <h3>Live events</h3>
