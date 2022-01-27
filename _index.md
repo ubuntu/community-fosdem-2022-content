@@ -40,7 +40,7 @@ showcase: |
   <p>
     Our mission is to bring the best of Free Software to the widest audience.
     Bringing down barriers and empower individuals and communities, to strive on the modern world.
-    Free Software and Open Source Software, allows indiviuals to shape the technology we all use.
+    Free Software and Open Source Software, allows individuals to shape the technology we all use.
   </p>
 
   <p>
@@ -58,7 +58,7 @@ showcase: |
   </p>
 
   <p>
-    Flavours, remixes, and derivatives are a spectacular way of individuals and/or groups to buiild uppon Ubuntu
+    Flavours, remixes, and derivatives are a spectacular way of individuals and/or groups to build upon Ubuntu
     and other projects to augment the technical diversity and freedom of choice within the Ubuntu universe.
   </p>
 
@@ -91,7 +91,7 @@ showcase: |
 
   <p style="margin-bottom:0;">
     But because Ubuntu is Linux, and the community has such a wonderful vision,
-    creativity, and techinical ingenuity, there are also derivatives like (but not just):&nbsp;
+    creativity, and technical ingenuity, there are also derivatives like (but not just):&nbsp;
     <ul>
       <li>Elementary OS</li>
       <li>Regotlith</li>
