@@ -62,10 +62,10 @@ showcase: |
     and other projects to augment the technical diversity and freedom of choice within the Ubuntu universe.
   </p>
 
-  <p>
+  <p style="margin-bottom:0;">
     As the Linux and FOSS community in general the Ubunteros, also enjoy many different things,
     like different desktop environments, or just to optimize to specific workloads.
-    This is what leads to the creation of flavours such as:
+    This is what leads to the creation of flavours such as:&nbsp;
     <ul>
       <li>Kubuntu - with KDE Plasma</li>
       <li>Xubuntu - with XFCE</li>
@@ -75,25 +75,30 @@ showcase: |
       <li>Ubuntu MATE</li>
       <li>Ubuntu Budgie</li>
     </ul>
+  </p>
 
-  But flavors are not the only way to taste the Ubuntu diversity, so we also like to remix:
-  <ul>
-    <li>Ubuntu Cinnamon (with the Cinnamon Desktop)</li>
-    <li>Ubuntu Unity - former default DE of Ubuntu (11.04 to 18.04)</li>
-    <li>UbuntuDDE - with the Deepin Desktop Environment</li>
-    <li>Ubuntu Web Remix (combines Ubuntu and Firefox)</li>
-    <li>UbuntuEd (Ubuntu for Education)</li>
-    <li>Retro Home (retro gaming with Ubuntu and Ludo)</li>
-  </ul>
+  <p style="margin-bottom:0;">
+    But flavors are not the only way to taste the Ubuntu diversity, so we also like to remix:&nbsp;
+    <ul>
+      <li>Ubuntu Cinnamon (with the Cinnamon Desktop)</li>
+      <li>Ubuntu Unity - former default DE of Ubuntu (11.04 to 18.04)</li>
+      <li>UbuntuDDE - with the Deepin Desktop Environment</li>
+      <li>Ubuntu Web Remix (combines Ubuntu and Firefox)</li>
+      <li>UbuntuEd (Ubuntu for Education)</li>
+      <li>Retro Home (retro gaming with Ubuntu and Ludo)</li>
+    </ul>
+  </p>
 
-
-  But because Ubuntu is Linux, and the community has such a wonderful vision, creativity, and techinical ingenuity, there are also derivatives like (but not just):
-  <ul>
-    <li>Elementary OS</li>
-    <li>Regotlith</li>
-    <li>Linux Mint</li>
-    <li>Ubuntu Touch</li>
-  </ul>
+  <p style="margin-bottom:0;">
+    But because Ubuntu is Linux, and the community has such a wonderful vision,
+    creativity, and techinical ingenuity, there are also derivatives like (but not just):&nbsp;
+    <ul>
+      <li>Elementary OS</li>
+      <li>Regotlith</li>
+      <li>Linux Mint</li>
+      <li>Ubuntu Touch</li>
+    </ul>
+  </p>
 
 
   <p>Show things and other things</p>
