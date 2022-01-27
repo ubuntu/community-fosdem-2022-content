@@ -132,27 +132,30 @@ showcase: |
   </style>
 
   <script>
+    // Repeat an array n times
+    Array.prototype.repeat = function(n){ var a = []; for (var i=0;i<n;[i++].push.apply(a,this)); return a; }
+
     console.log(`%c
-                              .-/+oossssoo+/-.
-                          \`:+ssssssssssssssssss+:\`
-                        -+ssssssssssssssssssyyssss+-
-                      .ossssssssssssssssssdMMMNysssso.
-                    /ssssssssssshdmmNNmmyNMMMMhssssss/
-                    +ssssssssshmydMMMMMMMNddddyssssssss+
-                  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/
-                  .ssssssssdMMMNhsssssssssshNMMMdssssssss.
-                  +sssshhhyNMMNyssssssssssssyNMMMysssssss+
-                  ossyNMMMNyMMhsssssssssssssshmmmhssssssso
-                  ossyNMMMNyMMhsssssssssssssshmmmhssssssso
-                  +sssshhhyNMMNyssssssssssssyNMMMysssssss+
-                  .ssssssssdMMMNhsssssssssshNMMMdssssssss.
-                  /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
-                    +sssssssssdmydMMMMMMMMddddyssssssss+
-                    /ssssssssssshdmNNNNmyNMMMMhssssss/
-                      .ossssssssssssssssssdMMMNysssso.
-                        -+sssssssssssssssssyyyssss+-
-                          \`:+ssssssssssssssssss+:\`
-                              .-/+oossssoo+/-.
+                               .-/+oossssoo+/-.
+                           \`:+ssssssssssssssssss+:\`
+                         -+ssssssssssssssssssyyssss+-
+                       .ossssssssssssssssss%cdMMMNy%csssso.
+                      /sssssssssss%chdmmNNmmyNMMMMh%cssssss/
+                     +sssssssss%chm%cyd%cMMMMMMMNddddy%cssssssss+
+                    /ssssssss%chNMMM%cyh%chyyyyhmNMMMNh%cssssssss/
+                   .ssssssss%cdMMMNh%cssssssssss%chNMMMd%cssssssss.
+                   +ssss%chhhyNMMNy%cssssssssssss%cyNMMMy%csssssss+
+                   oss%cyNMMMNyMMh%csssssssssssssshmmmhssssssso
+                   oss%cyNMMMNyMMh%cssssssssssssss%chmmmh%cssssssso
+                   +ssss%chhhyNMMNy%cssssssssssssy%cNMMMy%csssssss+
+                   .ssssssss%cdMMMNh%cssssssssss%chNMMMd%cssssssss.
+                    /ssssssss%chNMMMy%chhyyyy%chdNMMMNh%cssssssss/
+                     +sssssssss%cdm%cyd%cMMMMMMMMddddy%cssssssss+
+                      /sssssssssss%chdmNNNNmyNMMMMh%cssssss/
+                       .ossssssssssssssssss%cdMMMNy%csssso.
+                         -+sssssssssssssssss%cyyy%cssss+-
+                           \`:+ssssssssssssssssss+:\`
+                               .-/+oossssoo+/-.
   %c
    _    _      _ _          _____                                      _ _
   | |  | |    | | |        / ____|                                    (_) |
@@ -161,10 +164,10 @@ showcase: |
   | |  | |  __/ | | (_) | | |___| (_) | | | | | | | | | | | |_| | | | | | |_| |_| |
   |_|  |_|\\___|_|_|\\___/   \\_____\\___/|_| |_| |_|_| |_| |_|\\__,_|_| |_|_|\\__|\\__, |
                                                                               __/ |
-                                                                              |___/ \
+  Want to be part of it? Join us https://ubuntu.com/jobs                     |___/ \
 
 
-  `, "color: #E95420","color: ;")
+  `, "color: #E95420", ...["color: #ccc","color: #E95420"].repeat(24),"color: ;")
   </script>
 
 
