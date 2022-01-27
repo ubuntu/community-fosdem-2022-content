@@ -23,6 +23,8 @@ description: |
 
 
 showcase: |
+  <h3>More on Ubuntu</h3>
+
   <p>
     Our mission is to bring the best of Free Software to the widest audience.
     Bringing down barriers and empower individuals and communities, to strive on the modern world.
@@ -48,7 +50,40 @@ showcase: |
     and other projects to augment the technical diversity and freedom of choice within the Ubuntu universe.
   </p>
 
-  <h3>What are we doing at FOSDEM?</h3>
+  <p>
+    As the Linux and FOSS community in general the Ubunteros, also enjoy many different things,
+    like different desktop environments, or just to optimize to specific workloads.
+    This is what leads to the creation of flavours such as:
+    <ul>
+      <li>Kubuntu - with KDE Plasma</li>
+      <li>Xubuntu - with XFCE</li>
+      <li>Ubuntu Studio - KDE, customed to general studio use</li>
+      <li>Lubuntu - with LXQt (formerly LXDE)</li>
+      <li>Ubuntu Kylin - with UKUI</li>
+      <li>Ubuntu MATE</li>
+      <li>Ubuntu Budgie</li>
+    </ul>
+
+  But flavors are not the only way to taste the Ubuntu diversity, so we also like to remix:
+  <ul>
+    <li>Ubuntu Cinnamon (with the Cinnamon Desktop)</li>
+    <li>Ubuntu Unity - former default DE of Ubuntu (11.04 to 18.04)</li>
+    <li>UbuntuDDE - with the Deepin Desktop Environment</li>
+    <li>Ubuntu Web Remix (combines Ubuntu and Firefox)</li>
+    <li>UbuntuEd (Ubuntu for Education)</li>
+    <li>Retro Home (retro gaming with Ubuntu and Ludo)</li>
+  </ul>
+
+
+  But because Ubuntu is Linux, and the community has such a wonderful vision, creativity, and techinical ingenuity, there are also derivatives like (but not just):
+  <ul>
+    <li>Elementary OS</li>
+    <li>Regotlith</li>
+    <li>Linux Mint</li>
+    <li>Ubuntu Touch</li>
+  </ul>
+
+
   <p>Show things and other things</p>
   <h3>Live events</h3>
   <p>Show things and other things</p>
