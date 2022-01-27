@@ -66,49 +66,59 @@ showcase: |
     As the Linux and FOSS community in general the Ubunteros, also enjoy many different things,
     like different desktop environments, or just to optimize to specific workloads.
     This is what leads to the creation of flavours such as:&nbsp;
-    <ul>
-      <li>Kubuntu - with KDE Plasma</li>
-      <li>Xubuntu - with XFCE</li>
-      <li>Ubuntu Studio - KDE, customed to general studio use</li>
-      <li>Lubuntu - with LXQt (formerly LXDE)</li>
-      <li>Ubuntu Kylin - with UKUI</li>
-      <li>Ubuntu MATE</li>
-      <li>Ubuntu Budgie</li>
-    </ul>
   </p>
+  <ul>
+    <li>Kubuntu - with KDE Plasma</li>
+    <li>Xubuntu - with XFCE</li>
+    <li>Ubuntu Studio - KDE, customed to general studio use</li>
+    <li>Lubuntu - with LXQt (formerly LXDE)</li>
+    <li>Ubuntu Kylin - with UKUI</li>
+    <li>Ubuntu MATE</li>
+    <li>Ubuntu Budgie</li>
+  </ul>
 
   <p style="margin-bottom:0;">
     But flavors are not the only way to taste the Ubuntu diversity, so we also like to remix:&nbsp;
-    <ul>
-      <li>Ubuntu Cinnamon (with the Cinnamon Desktop)</li>
-      <li>Ubuntu Unity - former default DE of Ubuntu (11.04 to 18.04)</li>
-      <li>UbuntuDDE - with the Deepin Desktop Environment</li>
-      <li>Ubuntu Web Remix (combines Ubuntu and Firefox)</li>
-      <li>UbuntuEd (Ubuntu for Education)</li>
-      <li>Retro Home (retro gaming with Ubuntu and Ludo)</li>
-    </ul>
   </p>
+  <ul>
+    <li>Ubuntu Cinnamon (with the Cinnamon Desktop)</li>
+    <li>Ubuntu Unity - former default DE of Ubuntu (11.04 to 18.04)</li>
+    <li>UbuntuDDE - with the Deepin Desktop Environment</li>
+    <li>Ubuntu Web Remix (combines Ubuntu and Firefox)</li>
+    <li>UbuntuEd (Ubuntu for Education)</li>
+    <li>Retro Home (retro gaming with Ubuntu and Ludo)</li>
+  </ul>
 
   <p style="margin-bottom:0;">
     But because Ubuntu is Linux, and the community has such a wonderful vision,
     creativity, and technical ingenuity, there are also derivatives like (but not just):&nbsp;
-    <ul>
-      <li>Elementary OS</li>
-      <li>Regotlith</li>
-      <li>Linux Mint</li>
-      <li>Ubuntu Touch</li>
-    </ul>
   </p>
+  <ul>
+    <li>Elementary OS</li>
+    <li>Regotlith</li>
+    <li>Linux Mint</li>
+    <li>Ubuntu Touch</li>
+  </ul>
 
-
-  <p>Show things and other things</p>
-  <h3>Live events</h3>
-  <p>Show things and other things</p>
   <h3>Social Media Links</h2>
   <ul>
-  <li><a href="https://discourse.ubuntu.com/">discourse.ubuntu.com</a></li>
-  <li><a href="https://ubuntuforums.org/">ubuntuforums.org</a></li>
-  <li><a href="https://twitter.com/ubuntu">twitter.com/ubuntu</a></li>
+    <li><a href="https://discourse.ubuntu.com/">discourse.ubuntu.com</a></li>
+    <li><a href="https://ubuntuforums.org/">ubuntuforums.org</a></li>
+    <li><a href="https://twitter.com/ubuntu">twitter.com/ubuntu</a></li>
+  </ul>
+
+  <h3>Your career with Canonical</h3>
+  <p>
+    Life at Canonical is anything but corporate. As a company that exists to support Ubuntu,
+    one of today’s most important open source projects, we are changing the world on a daily basis.
+    It’s a collaborative environment, but one in which every member of the team takes personal responsibility
+    for everything they produce.
+  </p>
+  <p>
+    Be also part of it, and explore a career at Canonical at
+    <a href="https://canonical.com/careers/start">https://canonical.com/careers/start</a>
+  </p>
+
 
 
   <style>
@@ -132,30 +142,28 @@ showcase: |
   </style>
 
   <script>
-    // Repeat an array n times
     Array.prototype.repeat = function(n){ var a = []; for (var i=0;i<n;[i++].push.apply(a,this)); return a; }
-
     console.log(`%c
-                               .-/+oossssoo+/-.
-                           \`:+ssssssssssssssssss+:\`
-                         -+ssssssssssssssssssyyssss+-
-                       .ossssssssssssssssss%cdMMMNy%csssso.
-                      /sssssssssss%chdmmNNmmyNMMMMh%cssssss/
-                     +sssssssss%chm%cyd%cMMMMMMMNddddy%cssssssss+
-                    /ssssssss%chNMMM%cyh%chyyyyhmNMMMNh%cssssssss/
-                   .ssssssss%cdMMMNh%cssssssssss%chNMMMd%cssssssss.
-                   +ssss%chhhyNMMNy%cssssssssssss%cyNMMMy%csssssss+
-                   oss%cyNMMMNyMMh%csssssssssssssshmmmhssssssso
-                   oss%cyNMMMNyMMh%cssssssssssssss%chmmmh%cssssssso
-                   +ssss%chhhyNMMNy%cssssssssssssy%cNMMMy%csssssss+
-                   .ssssssss%cdMMMNh%cssssssssss%chNMMMd%cssssssss.
-                    /ssssssss%chNMMMy%chhyyyy%chdNMMMNh%cssssssss/
-                     +sssssssss%cdm%cyd%cMMMMMMMMddddy%cssssssss+
-                      /sssssssssss%chdmNNNNmyNMMMMh%cssssss/
-                       .ossssssssssssssssss%cdMMMNy%csssso.
-                         -+sssssssssssssssss%cyyy%cssss+-
-                           \`:+ssssssssssssssssss+:\`
-                               .-/+oossssoo+/-.
+                                 .-/+oossssoo+/-.
+                             \`:+ssssssssssssssssss+:\`
+                           -+ssssssssssssssssssyyssss+-
+                         .ossssssssssssssssss%cdMMMNy%csssso.
+                        /sssssssssss%chdmmNNmmyNMMMMh%cssssss/
+                       +sssssssss%chm%cyd%cMMMMMMMNddddy%cssssssss+
+                      /ssssssss%chNMMM%cyh%chyyyyhmNMMMNh%cssssssss/
+                     .ssssssss%cdMMMNh%cssssssssss%chNMMMd%cssssssss.
+                     +ssss%chhhyNMMNy%cssssssssssss%cyNMMMy%csssssss+
+                     oss%cyNMMMNyMMh%csssssssssssssshmmmhssssssso
+                     oss%cyNMMMNyMMh%cssssssssssssss%chmmmh%cssssssso
+                     +ssss%chhhyNMMNy%cssssssssssssy%cNMMMy%csssssss+
+                     .ssssssss%cdMMMNh%cssssssssss%chNMMMd%cssssssss.
+                      /ssssssss%chNMMMy%chhyyyy%chdNMMMNh%cssssssss/
+                       +sssssssss%cdm%cyd%cMMMMMMMMddddy%cssssssss+
+                        /sssssssssss%chdmNNNNmyNMMMMh%cssssss/
+                         .ossssssssssssssssss%cdMMMNy%csssso.
+                           -+sssssssssssssssss%cyyy%cssss+-
+                             \`:+ssssssssssssssssss+:\`
+                                 .-/+tcsssstc+/-.
   %c
    _    _      _ _          _____                                      _ _
   | |  | |    | | |        / ____|                                    (_) |
@@ -164,7 +172,7 @@ showcase: |
   | |  | |  __/ | | (_) | | |___| (_) | | | | | | | | | | | |_| | | | | | |_| |_| |
   |_|  |_|\\___|_|_|\\___/   \\_____\\___/|_| |_| |_|_| |_| |_|\\__,_|_| |_|_|\\__|\\__, |
                                                                               __/ |
-  Want to be part of it? Join us https://ubuntu.com/jobs                     |___/ \
+  Join us at https://ubuntu.com/jobs                                         |___/ \
 
 
   `, "color: #E95420", ...["color: #ccc","color: #E95420"].repeat(24),"color: ;")
