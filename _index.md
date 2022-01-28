@@ -148,7 +148,7 @@ showcase: |
     body {
       color: #111111;
     }
-    .jumbotron {
+    .jumbotron, .badge-primary {
       background-color: #E95420;
       color: #fff
     }
