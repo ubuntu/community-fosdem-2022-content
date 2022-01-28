@@ -33,8 +33,7 @@ showcase: |
           <p class="badge badge-pill badge-primary">1:00 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Contributing to Open Source Projects with Ubuntu, Nextcloud, and Collabora</h5>
           <p class="card-text">
-            Some quick example text to build on the card title
-            and make up the bulk of the card's content by PS.
+            Are you interested in contributing but don’t know where to start? Tag along and be part of the digital sovereign revolution! Everyone is welcome to join.
           </p>
           <!--<a href="#" class="card-link">Card link</a>
           <a href="#" class="card-link">Another link</a>-->
