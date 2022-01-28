@@ -26,7 +26,7 @@ showcase: |
 
   <h3>Live events (WIP)</h3>
   <ul class="list-group list-group-horizontal-md">
-    <li class="list-group-item">
+    <li class="list-group-item border-0 pl-0">
       <h4>Saturday, February 5</h4>
       <div class="card">
         <div class="card-body">
@@ -40,7 +40,7 @@ showcase: |
         </div>
       </div>
     </li>
-    <li class="list-group-item">
+    <li class="list-group-item border-0 pl-0">
       <h4>Sunday, February 6</h4>
       <div class="card">
         <div class="card-body">
