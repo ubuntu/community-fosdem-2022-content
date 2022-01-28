@@ -155,6 +155,9 @@ showcase: |
     .card {
       border-color: #E95420;
     }
+    .card .badge {
+      line-height: 1.4;
+    }
 
     a:link {
       color: #06c;
