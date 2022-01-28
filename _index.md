@@ -25,7 +25,7 @@ description: |
 showcase: |
 
   <h3>Live events (WIP)</h3>
-  <ul class="list-group list-group-horizontal">
+  <ul class="list-group list-group-horizontal-md">
     <li class="list-group-item">
       <h4>Saturday, February 5</h4>
       <div class="card">
