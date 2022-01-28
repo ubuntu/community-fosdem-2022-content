@@ -47,8 +47,7 @@ showcase: |
         <p class="badge badge-pill badge-primary">X:00 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">build</span>Setting up a Nextcloud Instance with Collabora on Ubuntu</h5>
           <p class="card-text">
-            Some quick example text to build on the card title
-            and make up the bulk of the card's content by Speaker(s).
+            Keeping full control over your personal data and documents, is more and more important. Learn how to create your own personal cloud with this easy built-in installation.
           </p>
           <!--<a href="#" class="card-link">Card link</a>
           <a href="#" class="card-link">Another link</a>-->
