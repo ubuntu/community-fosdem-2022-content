@@ -25,13 +25,36 @@ description: |
 showcase: |
 
   <h3>Live events (WIP)</h3>
-  <ul>
-    <li>
-      Saturday, February 5, 1:00 PM (CET):<br>
-      Contributing to Open Source Projects with Ubuntu, Nextcloud, and Collabora, by PS</li>
-    <li>
-      Sunday, February 6, x:00 PM (CET):<br>
-      Setting up a Nextcloud Instance with Collabora on Ubuntu
+  <ul class="list-group list-group-horizontal">
+    <li class="list-group-item">
+      <h4>Saturday, February 5</h4>
+      <div class="card">
+        <div class="card-body">
+          <p class="badge badge-pill badge-primary">1:00 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Contributing to Open Source Projects with Ubuntu, Nextcloud, and Collabora</h5>
+          <p class="card-text">
+            Some quick example text to build on the card title
+            and make up the bulk of the card's content by PS.
+          </p>
+          <!--<a href="#" class="card-link">Card link</a>
+          <a href="#" class="card-link">Another link</a>-->
+        </div>
+      </div>
+    </li>
+    <li class="list-group-item">
+      <h4>Sunday, February 6</h4>
+      <div class="card">
+        <div class="card-body">
+        <p class="badge badge-pill badge-primary">X:00 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">build</span>Setting up a Nextcloud Instance with Collabora on Ubuntu</h5>
+          <p class="card-text">
+            Some quick example text to build on the card title
+            and make up the bulk of the card's content by Speaker(s).
+          </p>
+          <!--<a href="#" class="card-link">Card link</a>
+          <a href="#" class="card-link">Another link</a>-->
+        </div>
+      </div>
     </li>
   </ul>
 
