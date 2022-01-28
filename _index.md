@@ -35,8 +35,8 @@ showcase: |
           <p class="card-text">
             Are you interested in contributing but don’t know where to start? Tag along and be part of the digital sovereign revolution! Everyone is welcome to join.
           </p>
-          <!--<a href="#" class="card-link">Card link</a>
-          <a href="#" class="card-link">Another link</a>-->
+          <a href="https://collaboraonline.github.io/" title="Contribute" class="card-link">Collabora Online</a>
+          <a href="https://nextcloud.com/contribute/" title="Contribute" class="card-link">Nextcloud</a>
         </div>
       </div>
     </li>
