@@ -14,10 +14,8 @@ overview: |
 
 description: |
   <p>
-    Ubuntu is one of the most popular Linux distributions, derived from Debian and produced by Canonical and friends.
-    Canonical runs Ubuntu as an open project to enable others with diverse ideas to benefit from work of Canonical developers,
-    and in turn to contribute their volunteer hours to the vital tasks of QA and testing, translation, user support,
-    community organizing, in addition to development.
+    Ubuntu is one of the most popular Linux distributions, <a href="https://ubuntu.com/community/debian">based on Debian</a> and produced by <a href="https://canonical.com/">Canonical</a> and friends.
+    <a href="https://ubuntu.com/community/canonical">Canonical runs Ubuntu as an open project</a> to enable others with diverse ideas to benefit from work of Canonical developers, and in turn to contribute their volunteer hours to the vital tasks of <a href="https://discourse.ubuntu.com/c/quality/">QA and testing</a>, <a href="https://discourse.ubuntu.com/c/translation/">translation</a>, <a href="https://discourse.ubuntu.com/c/support-help-requests/">user support</a>, community organizing, community documentation, in addition to development.<br>
     As a result, Ubuntu is far bigger and more interesting than anything a single company could produce.
   </p>
 
@@ -59,7 +57,7 @@ showcase: |
   <h3>More on Ubuntu</h3>
 
   <p>
-    Our mission is to bring the best of Free Software to the widest audience.
+    Our <a href="https://ubuntu.com/community/mission">mission</a> is to bring the best of Free Software to the widest audience.
     Bringing down barriers and empower individuals and communities, to strive on the modern world.
     Free Software and Open Source Software, allows individuals to shape the technology we all use.
   </p>
@@ -92,7 +90,7 @@ showcase: |
     <li>Kubuntu - with KDE Plasma</li>
     <li>Xubuntu - with XFCE</li>
     <li>Ubuntu Studio - KDE, customed to general studio use</li>
-    <li>Lubuntu - with LXQt (formerly LXDE)</li>
+    <li>Lubuntu - with LXQt (formerly with LXDE)</li>
     <li>Ubuntu Kylin - with UKUI</li>
     <li>Ubuntu MATE</li>
     <li>Ubuntu Budgie</li>
@@ -106,7 +104,7 @@ showcase: |
     <li>Ubuntu Unity - former default DE of Ubuntu (11.04 to 18.04)</li>
     <li>UbuntuDDE - with the Deepin Desktop Environment</li>
     <li>Ubuntu Web Remix (combines Ubuntu and Firefox)</li>
-    <li>UbuntuEd (Ubuntu for Education)</li>
+    <li>UbuntuEd (Ubuntu for educational purposes)</li>
     <li>Retro Home (retro gaming with Ubuntu and Ludo)</li>
   </ul>
 
@@ -126,6 +124,7 @@ showcase: |
     <li><a href="https://discourse.ubuntu.com/">discourse.ubuntu.com</a></li>
     <li><a href="https://ubuntuforums.org/">ubuntuforums.org</a></li>
     <li><a href="https://twitter.com/ubuntu">twitter.com/ubuntu</a></li>
+    <li><a href="https://www.facebook.com/ubuntulinux">facebook.com/ubuntulinux</a></li>
   </ul>
 
   <h3>Your career with Canonical</h3>
