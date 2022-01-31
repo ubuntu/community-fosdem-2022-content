@@ -163,6 +163,9 @@ showcase: |
     #stand-at-fosdem {
       border-color: #333333;
     }
+    #stand-at-fosdem .list-group-item {
+      padding-left: 0;
+    }
 
     a:link {
       color: #06c;
