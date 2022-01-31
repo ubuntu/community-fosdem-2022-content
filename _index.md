@@ -160,6 +160,9 @@ showcase: |
     .card .badge {
       line-height: 1.4;
     }
+    #stand-at-fosdem {
+      border-color: #333333;
+    }
 
     a:link {
       color: #06c;
