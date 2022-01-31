@@ -149,6 +149,7 @@ showcase: |
       background: url('/stands/ubuntu/ubuntu-logo14.png') no-repeat center/contain #dd4814;
       color: transparent;
       height: 243px;
+      margin-bottom: 0;
       }
     .badge-primary {
       background-color: #E95420;
