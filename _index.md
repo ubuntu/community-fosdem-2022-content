@@ -145,7 +145,12 @@ showcase: |
     body {
       color: #111111;
     }
-    .jumbotron, .badge-primary {
+    .jumbotron {
+      background: url('/stands/ubuntu/ubuntu-logo14.png') no-repeat center/contain #dd4814;
+      color: transparent;
+      height: 243px;
+      }
+    .badge-primary {
       background-color: #E95420;
       color: #fff
     }
