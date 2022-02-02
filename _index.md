@@ -28,6 +28,48 @@ showcase: |
       <h4>Saturday, February 5</h4>
       <div class="card">
         <div class="card-body">
+          <p class="badge badge-pill badge-primary">12:00 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Ubuntu Unity Remix</h5>
+          <p class="card-text">
+            Ubuntu Unity is a remix of Ubuntu featuring the Unity7 desktop environment (the default desktop environment used by Ubuntu from 2010-2017).
+          </p>
+          <a href="https://ubuntuunity.org/" title="Try it out!" class="card-link">Ubuntu Unity</a>
+          <hr class="card-bottom-divider">
+          <a href="https://twitter.com/RudraSaraswat1" title="Rudra Saraswat">
+          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
+          <!--<img
+              src=""
+              class="speaker-avatar rounded-circle shadow-sm"
+              style="width: 32px;"
+              alt="Portrait of Rudra Saraswat"
+              title="Rudra Saraswat"
+            />-->
+          </a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <p class="badge badge-pill badge-primary">12:30 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Gamebuntu</h5>
+          <p class="card-text">
+            Transform an Ubuntu install into a complete game-ready (!) setup
+          </p>
+          <a href="https://gitlab.com/rswat09/gamebuntu/" title="Try it out!" class="card-link">Gamebuntu</a>
+          <hr class="card-bottom-divider">
+          <a href="https://twitter.com/RudraSaraswat1" title="Rudra Saraswat">
+          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
+          <!--<img
+              src=""
+              class="speaker-avatar rounded-circle shadow-sm"
+              style="width: 32px;"
+              alt="Portrait of Rudra Saraswat"
+              title="Rudra Saraswat"
+            />-->
+          </a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
           <p class="badge badge-pill badge-primary">1:00 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Contributing to Open Source Projects with Ubuntu, Nextcloud, and Collabora</h5>
           <p class="card-text">
@@ -56,12 +98,45 @@ showcase: |
           </a>
         </div>
       </div>
+      <div class="card">
+        <div class="card-body">
+          <p class="badge badge-pill badge-primary">3:00 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Ubuntu Cinnamon Remix</h5>
+          <p class="card-text">
+            Community-driven, featuring Linux Mint’s Cinnamon Desktop with Ubuntu at the core, packed fast and full of features, here is the most traditionally modern desktop you will ever love.
+          </p>
+          <a href="https://ubuntucinnamon.org/" title="Try it out!" class="card-link">Ubuntu Cinnamon Remix</a>
+          <hr class="card-bottom-divider">
+          <a href="https://twitter.com/UbuntuCinnamon" title="Joshua Peisach">
+          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
+          <!--<img
+              src=""
+              class="speaker-avatar rounded-circle shadow-sm"
+              style="width: 32px;"
+              alt="Portrait of Joshua Peisach"
+              title="Joshua Peisach"
+            />-->
+          </a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <p class="badge badge-pill badge-primary">6:00 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Downstream Distro Panel</h5>
+          <p class="card-text">
+            Downstream Distro Panel
+          </p>
+          <hr class="card-bottom-divider">
+          Regolith/Elementary/Pop!_OS
+          </a>
+        </div>
+      </div>
     </li>
     <li class="list-group-item border-0 pl-0">
       <h4>Sunday, February 6</h4>
       <div class="card">
         <div class="card-body">
-        <p class="badge badge-pill badge-primary">X:00 PM (CET)</p>
+        <p class="badge badge-pill badge-primary">2:00 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">build</span>Setting up a Nextcloud Instance with Collabora on Ubuntu</h5>
           <p class="card-text">
             Keeping full control over your personal data and documents, is more and more important. Learn how to create your own personal cloud with this easy built-in installation.
@@ -78,6 +153,53 @@ showcase: |
               title="William Gathoye (Collabora)"
             />
           </a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <p class="badge badge-pill badge-primary">3:00 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Flutter Development Video and Q&A</h5>
+          <p class="card-text">
+            Flutter Development Video and Q&A
+          </p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <p class="badge badge-pill badge-primary">4:00 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>The Ubuntu community structure and how to contribute</h5>
+          <p class="card-text">
+            The Ubuntu community structure and how to contribute
+          </p>
+          <hr class="card-bottom-divider">
+          <a href="#" title="Torsten Franz">
+          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
+          <!--<img
+              src=""
+              class="speaker-avatar rounded-circle shadow-sm"
+              style="width: 32px;"
+              alt="Portrait of Torsten Franz"
+              title="Torsten Franz"
+            />-->
+          </a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <p class="badge badge-pill badge-primary">4:45 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Getting Started with Ubuntu Frame</h5>
+          <p class="card-text">
+            Video session
+          </p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
+          <p class="badge badge-pill badge-primary">5:30 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Mir Team/Ubuntu Frame live Q&A</h5>
+          <p class="card-text">
+            Mir Team/Ubuntu Frame live Q&A
+          </p>
         </div>
       </div>
     </li>
@@ -186,12 +308,14 @@ showcase: |
     }
     .card {
       border-color: #E95420;
+      margin-bottom: 8px;
     }
     .card .badge {
       line-height: 1.4;
     }
     #stand-at-fosdem {
       border-color: #333333;
+      margin: 0;
     }
     #stand-at-fosdem .list-group-item {
       padding-left: 0;
@@ -201,6 +325,12 @@ showcase: |
     }
     .card-bottom-divider {
       margin-right: 75%;
+    }
+    .material-icons.speaker-avatar {
+      color: #111;
+    }
+    .material-icons.speaker-avatar:hover {
+      color: #E95420;
     }
 
     a:link {
