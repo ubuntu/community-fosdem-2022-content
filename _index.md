@@ -18,6 +18,16 @@ description: |
     <a href="https://ubuntu.com/community/canonical">Canonical runs Ubuntu as an open project</a> to enable others with diverse ideas to benefit from work of Canonical developers, and in turn to contribute their volunteer hours to the vital tasks of <a href="https://discourse.ubuntu.com/c/quality/">QA and testing</a>, <a href="https://discourse.ubuntu.com/c/translation/">translation</a>, <a href="https://discourse.ubuntu.com/c/support-help-requests/">user support</a>, community organizing, community documentation, in addition to development.<br>
     As a result, Ubuntu is far bigger and more interesting than anything a single company could produce.
   </p>
+  <div class="row mt-2 mb-4">
+    <div class="col">
+      <div class="btn-group btn-group-lg text-center d-flex flex-wrap align-content-center" role="group">
+        <a class="btn btn-outline-primary btn-h-ubuntu" href="https://discourse.ubuntu.com/">Post and read topics</a>
+        <a class="btn btn-outline-primary btn-h-ubuntu" href="https://discord.me/ubuntu">Chat with community (unofficial)</a>
+        <a class="btn btn-outline-primary btn-h-ubuntu" href="https://wiki.ubuntu.com/IRC/ChannelList">Join IRC channels</a>
+        <a class="btn btn-outline-primary btn-h-ubuntu" href="https://twitter.com/ubuntu">Follow us on Twitter</a>
+      </div>
+    </div>
+  </div>
 
 
 showcase: |
@@ -320,6 +330,9 @@ showcase: |
     #stand-at-fosdem .list-group-item {
       padding-left: 0;
     }
+    #stand-at-fosdem > div::after{
+      content:"<a href='https://discord.me/ubuntu'>info@site.com</a>";
+    }
     .speaker-avatar.shadow-sm:hover {
       box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
     }
@@ -331,6 +344,15 @@ showcase: |
     }
     .material-icons.speaker-avatar:hover {
       color: #E95420;
+    }
+    .btn.btn-outline-primary.btn-h-ubuntu {
+        border-color: #bfbfbf;
+        color: #666;
+    }
+    .btn.btn-outline-primary.btn-h-ubuntu:hover {
+        border-color: #E95420;
+        color: #E95420;
+        background-color: white;
     }
 
     a:link {
