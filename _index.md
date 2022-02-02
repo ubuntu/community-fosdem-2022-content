@@ -35,6 +35,25 @@ showcase: |
           </p>
           <a href="https://collaboraonline.github.io/" title="Contribute" class="card-link">Collabora Online</a>
           <a href="https://nextcloud.com/contribute/" title="Contribute" class="card-link">Nextcloud</a>
+          <hr class="card-bottom-divider">
+          <a href="https://twitter.com/MariusQuabeck">
+            <img
+              src="/stands/ubuntu/speaker-mariusQ.jpg"
+              class="speaker-avatar rounded-circle shadow-sm"
+              style="width: 32px;"
+              alt="Portrait of Marius Quabeck"
+              title="Marius Quabeck (Nextcloud)"
+            />
+          </a>
+          <a href="https://twitter.com/PedroPS">
+            <img
+            src="/stands/ubuntu/speaker-pedroS.jpg"
+            class="speaker-avatar rounded-circle shadow-sm"
+            style="width: 32px;"
+            alt="Portrait of Pedro Silva"
+            title="Pedro Silva (Collabora)"
+            />
+          </a>
         </div>
       </div>
     </li>
@@ -49,6 +68,16 @@ showcase: |
           </p>
           <!--<a href="#" class="card-link">Card link</a>
           <a href="#" class="card-link">Another link</a>-->
+          <hr class="card-bottom-divider">
+          <a href="https://twitter.com/wget42">
+            <img
+              src="/stands/ubuntu/speaker-williamG.jpg"
+              class="speaker-avatar rounded-circle shadow-sm"
+              style="width: 32px;"
+              alt="Portrait of William Gathoye"
+              title="William Gathoye (Collabora)"
+            />
+          </a>
         </div>
       </div>
     </li>
@@ -166,6 +195,12 @@ showcase: |
     }
     #stand-at-fosdem .list-group-item {
       padding-left: 0;
+    }
+    .speaker-avatar.shadow-sm:hover {
+      box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+    }
+    .card-bottom-divider {
+      margin-right: 75%;
     }
 
     a:link {
