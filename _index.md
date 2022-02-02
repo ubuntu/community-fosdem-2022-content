@@ -29,7 +29,7 @@ showcase: |
       <div class="card">
         <div class="card-body">
           <p class="badge badge-pill badge-primary">12:00 PM (CET)</p>
-          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Ubuntu Unity Remix</h5>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">brush</span>Ubuntu Unity Remix</h5>
           <p class="card-text">
             Ubuntu Unity is a remix of Ubuntu featuring the Unity7 desktop environment (the default desktop environment used by Ubuntu from 2010-2017).
           </p>
@@ -50,7 +50,7 @@ showcase: |
       <div class="card">
         <div class="card-body">
           <p class="badge badge-pill badge-primary">12:30 PM (CET)</p>
-          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Gamebuntu</h5>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">sports_esports</span>Gamebuntu</h5>
           <p class="card-text">
             Transform an Ubuntu install into a complete game-ready (!) setup
           </p>
@@ -101,7 +101,7 @@ showcase: |
       <div class="card">
         <div class="card-body">
           <p class="badge badge-pill badge-primary">3:00 PM (CET)</p>
-          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Ubuntu Cinnamon Remix</h5>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">brush</span>Ubuntu Cinnamon Remix</h5>
           <p class="card-text">
             Community-driven, featuring Linux Mint’s Cinnamon Desktop with Ubuntu at the core, packed fast and full of features, here is the most traditionally modern desktop you will ever love.
           </p>
@@ -122,7 +122,7 @@ showcase: |
       <div class="card">
         <div class="card-body">
           <p class="badge badge-pill badge-primary">6:00 PM (CET)</p>
-          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Downstream Distro Panel</h5>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">groups</span>Downstream Distro Panel</h5>
           <p class="card-text">
             Downstream Distro Panel
           </p>
@@ -158,7 +158,7 @@ showcase: |
       <div class="card">
         <div class="card-body">
           <p class="badge badge-pill badge-primary">3:00 PM (CET)</p>
-          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Flutter Development Video and Q&A</h5>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">code</span>Flutter Development Video and Q&A</h5>
           <p class="card-text">
             Flutter Development Video and Q&A
           </p>
@@ -187,7 +187,7 @@ showcase: |
       <div class="card">
         <div class="card-body">
           <p class="badge badge-pill badge-primary">4:45 PM (CET)</p>
-          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Getting Started with Ubuntu Frame</h5>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">crop_square</span>Getting Started with Ubuntu Frame</h5>
           <p class="card-text">
             Video session
           </p>
@@ -196,7 +196,7 @@ showcase: |
       <div class="card">
         <div class="card-body">
           <p class="badge badge-pill badge-primary">5:30 PM (CET)</p>
-          <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>Mir Team/Ubuntu Frame live Q&A</h5>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">people</span>Mir Team/Ubuntu Frame live Q&A</h5>
           <p class="card-text">
             Mir Team/Ubuntu Frame live Q&A
           </p>
