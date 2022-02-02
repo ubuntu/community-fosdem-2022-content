@@ -43,6 +43,7 @@ showcase: |
       <div class="card">
         <div class="card-body">
         <p class="badge badge-pill badge-primary">X:00 PM (CET)</p>
+        <p class="badge badge-pill badge-primary">14:00 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">build</span>Setting up a Nextcloud Instance with Collabora on Ubuntu</h5>
           <p class="card-text">
             Keeping full control over your personal data and documents, is more and more important. Learn how to create your own personal cloud with this easy built-in installation.
