@@ -354,6 +354,33 @@ showcase: |
     a:visited {
       color: #772953;
     }
+
+    #stand-at-fosdem .list-group-item:first-child span {
+      animation-direction: reverse;
+
+      -webkit-animation-iteration-count: infinite;
+      animation-iteration-count: infinite;
+      -webkit-animation-play-state: running; /* Safari 4.0 - 8.0 */
+      animation-play-state: running;
+
+      -webkit-animation-name: hey-anim;
+      animation-name: hey-anim;
+      -webkit-animation-duration: 3s;
+      animation-duration: 3s;
+      -webkit-animation-timing-function: ease-in;
+      animation-timing-function: ease-in;
+    }
+
+    @keyframes hey-anim {
+      60%{transform: translateY(0px); opacity: 1;}
+      65%{transform: translateY(-5px); opacity: 1;}
+
+      70%{transform: translateY(0px); opacity: 1;}
+      75%{transform: translateY(-2px); opacity: 1;}
+      
+      80%{transform: translateY(0px); opacity: 1;}
+      100%{transform: translateY(0px); opacity: 1;}
+    }
   </style>
 
   <script>
