@@ -33,6 +33,7 @@ description: |
 showcase: |
 
   <h3>Live events (WIP)</h3>
+  <a href="/stands/ubuntu/FOSDEM22-Ubuntu Stand.ics" download="" class="border border-1 rounded-pill" style="padding: 0 6px 0 0;"><span class="material-icons" style="vertical-align: bottom;font-size: 24px;margin-left: -2px;">download_for_offline</span>&nbsp;Import .ics to your calendar</a>
   <ul class="list-group list-group-horizontal-md">
     <li class="list-group-item border-0 pl-0">
       <h4>Saturday, February 5</h4>
@@ -46,14 +47,13 @@ showcase: |
           <a href="https://ubuntuunity.org/" title="Try it out!" class="card-link">Ubuntu Unity</a>
           <hr class="card-bottom-divider">
           <a href="https://twitter.com/RudraSaraswat1" title="Rudra Saraswat">
-          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
-          <!--<img
-              src=""
+            <img
+              src="/stands/ubuntu/speaker-rudraS.jpg"
               class="speaker-avatar rounded-circle shadow-sm"
               style="width: 32px;"
               alt="Portrait of Rudra Saraswat"
               title="Rudra Saraswat"
-            />-->
+            />
           </a>
         </div>
       </div>
@@ -67,14 +67,13 @@ showcase: |
           <a href="https://gitlab.com/rswat09/gamebuntu/" title="Try it out!" class="card-link">Gamebuntu</a>
           <hr class="card-bottom-divider">
           <a href="https://twitter.com/RudraSaraswat1" title="Rudra Saraswat">
-          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
-          <!--<img
-              src=""
+            <img
+              src="/stands/ubuntu/speaker-rudraS.jpg"
               class="speaker-avatar rounded-circle shadow-sm"
               style="width: 32px;"
               alt="Portrait of Rudra Saraswat"
               title="Rudra Saraswat"
-            />-->
+            />
           </a>
         </div>
       </div>
@@ -117,15 +116,14 @@ showcase: |
           </p>
           <a href="https://ubuntucinnamon.org/" title="Try it out!" class="card-link">Ubuntu Cinnamon Remix</a>
           <hr class="card-bottom-divider">
-          <a href="https://twitter.com/UbuntuCinnamon" title="Joshua Peisach">
-          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
-          <!--<img
-              src=""
+          <a href="https://twitter.com/ItzSwirlz" title="Joshua Peisach">
+            <img
+              src="/stands/ubuntu/speaker-joshuaP.jpg"
               class="speaker-avatar rounded-circle shadow-sm"
               style="width: 32px;"
               alt="Portrait of Joshua Peisach"
               title="Joshua Peisach"
-            />-->
+            />
           </a>
         </div>
       </div>
@@ -182,15 +180,14 @@ showcase: |
             The Ubuntu community structure and how to contribute
           </p>
           <hr class="card-bottom-divider">
-          <a href="#" title="Torsten Franz">
-          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
-          <!--<img
-              src=""
+          <a href="https://twitter.com/toddyfranz" title="Torsten Franz">
+            <img
+              src="/stands/ubuntu/speaker-torstenF.jpg"
               class="speaker-avatar rounded-circle shadow-sm"
               style="width: 32px;"
               alt="Portrait of Torsten Franz"
               title="Torsten Franz"
-            />-->
+            />
           </a>
         </div>
       </div>
@@ -330,9 +327,6 @@ showcase: |
     #stand-at-fosdem .list-group-item {
       padding-left: 0;
     }
-    #stand-at-fosdem > div::after{
-      content:"<a href='https://discord.me/ubuntu'>info@site.com</a>";
-    }
     .speaker-avatar.shadow-sm:hover {
       box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
     }
@@ -360,6 +354,33 @@ showcase: |
     }
     a:visited {
       color: #772953;
+    }
+
+    #stand-at-fosdem .list-group-item:first-child span {
+      animation-direction: reverse;
+
+      -webkit-animation-iteration-count: infinite;
+      animation-iteration-count: infinite;
+      -webkit-animation-play-state: running; /* Safari 4.0 - 8.0 */
+      animation-play-state: running;
+
+      -webkit-animation-name: hey-anim;
+      animation-name: hey-anim;
+      -webkit-animation-duration: 3s;
+      animation-duration: 3s;
+      -webkit-animation-timing-function: ease-in;
+      animation-timing-function: ease-in;
+    }
+
+    @keyframes hey-anim {
+      60%{transform: translateY(0px); opacity: 1;}
+      65%{transform: translateY(-5px); opacity: 1;}
+
+      70%{transform: translateY(0px); opacity: 1;}
+      75%{transform: translateY(-2px); opacity: 1;}
+
+      80%{transform: translateY(0px); opacity: 1;}
+      100%{transform: translateY(0px); opacity: 1;}
     }
   </style>
 
