@@ -33,6 +33,7 @@ description: |
 showcase: |
 
   <h3>Live events (WIP)</h3>
+  <a href="/stands/ubuntu/FOSDEM22-Ubuntu Stand.ics" download="" class="border border-1 rounded-pill" style="padding: 0 6px 0 0;"><span class="material-icons" style="vertical-align: bottom;font-size: 24px;margin-left: -2px;">download_for_offline</span>&nbsp;Import .ics to your calendar</a>
   <ul class="list-group list-group-horizontal-md">
     <li class="list-group-item border-0 pl-0">
       <h4>Saturday, February 5</h4>
@@ -377,7 +378,7 @@ showcase: |
 
       70%{transform: translateY(0px); opacity: 1;}
       75%{transform: translateY(-2px); opacity: 1;}
-      
+
       80%{transform: translateY(0px); opacity: 1;}
       100%{transform: translateY(0px); opacity: 1;}
     }
