@@ -46,14 +46,13 @@ showcase: |
           <a href="https://ubuntuunity.org/" title="Try it out!" class="card-link">Ubuntu Unity</a>
           <hr class="card-bottom-divider">
           <a href="https://twitter.com/RudraSaraswat1" title="Rudra Saraswat">
-          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
-          <!--<img
-              src=""
+            <img
+              src="/stands/ubuntu/speaker-rudraS.jpg"
               class="speaker-avatar rounded-circle shadow-sm"
               style="width: 32px;"
               alt="Portrait of Rudra Saraswat"
               title="Rudra Saraswat"
-            />-->
+            />
           </a>
         </div>
       </div>
@@ -67,14 +66,13 @@ showcase: |
           <a href="https://gitlab.com/rswat09/gamebuntu/" title="Try it out!" class="card-link">Gamebuntu</a>
           <hr class="card-bottom-divider">
           <a href="https://twitter.com/RudraSaraswat1" title="Rudra Saraswat">
-          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
-          <!--<img
-              src=""
+            <img
+              src="/stands/ubuntu/speaker-rudraS.jpg"
               class="speaker-avatar rounded-circle shadow-sm"
               style="width: 32px;"
               alt="Portrait of Rudra Saraswat"
               title="Rudra Saraswat"
-            />-->
+            />
           </a>
         </div>
       </div>
@@ -118,14 +116,13 @@ showcase: |
           <a href="https://ubuntucinnamon.org/" title="Try it out!" class="card-link">Ubuntu Cinnamon Remix</a>
           <hr class="card-bottom-divider">
           <a href="https://twitter.com/UbuntuCinnamon" title="Joshua Peisach">
-          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
-          <!--<img
-              src=""
+            <img
+              src="/stands/ubuntu/speaker-joshuaP.jpg"
               class="speaker-avatar rounded-circle shadow-sm"
               style="width: 32px;"
               alt="Portrait of Joshua Peisach"
               title="Joshua Peisach"
-            />-->
+            />
           </a>
         </div>
       </div>
@@ -183,14 +180,13 @@ showcase: |
           </p>
           <hr class="card-bottom-divider">
           <a href="#" title="Torsten Franz">
-          <span class="material-icons speaker-avatar rounded-circle shadow-sm">face</span>
-          <!--<img
-              src=""
-              class="speaker-avatar rounded-circle shadow-sm"
-              style="width: 32px;"
-              alt="Portrait of Torsten Franz"
-              title="Torsten Franz"
-            />-->
+          <img
+            src="/stands/ubuntu/speaker-torstenF.jpg"
+            class="speaker-avatar rounded-circle shadow-sm"
+            style="width: 32px;"
+            alt="Portrait of Torsten Franz"
+            title="Torsten Franz"
+            />
           </a>
         </div>
       </div>
