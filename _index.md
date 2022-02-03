@@ -115,7 +115,7 @@ showcase: |
           </p>
           <a href="https://ubuntucinnamon.org/" title="Try it out!" class="card-link">Ubuntu Cinnamon Remix</a>
           <hr class="card-bottom-divider">
-          <a href="https://twitter.com/UbuntuCinnamon" title="Joshua Peisach">
+          <a href="https://twitter.com/ItzSwirlz" title="Joshua Peisach">
             <img
               src="/stands/ubuntu/speaker-joshuaP.jpg"
               class="speaker-avatar rounded-circle shadow-sm"
@@ -179,13 +179,13 @@ showcase: |
             The Ubuntu community structure and how to contribute
           </p>
           <hr class="card-bottom-divider">
-          <a href="#" title="Torsten Franz">
-          <img
-            src="/stands/ubuntu/speaker-torstenF.jpg"
-            class="speaker-avatar rounded-circle shadow-sm"
-            style="width: 32px;"
-            alt="Portrait of Torsten Franz"
-            title="Torsten Franz"
+          <a href="https://twitter.com/toddyfranz" title="Torsten Franz">
+            <img
+              src="/stands/ubuntu/speaker-torstenF.jpg"
+              class="speaker-avatar rounded-circle shadow-sm"
+              style="width: 32px;"
+              alt="Portrait of Torsten Franz"
+              title="Torsten Franz"
             />
           </a>
         </div>
