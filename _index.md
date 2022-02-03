@@ -326,9 +326,6 @@ showcase: |
     #stand-at-fosdem .list-group-item {
       padding-left: 0;
     }
-    #stand-at-fosdem > div::after{
-      content:"<a href='https://discord.me/ubuntu'>info@site.com</a>";
-    }
     .speaker-avatar.shadow-sm:hover {
       box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
     }
