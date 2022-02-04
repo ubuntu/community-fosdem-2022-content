@@ -32,7 +32,7 @@ description: |
 
 showcase: |
 
-  <h3>Live events (WIP)</h3>
+  <h3>Live events</h3>
   <a href="/stands/ubuntu/FOSDEM22-Ubuntu Stand.ics" download="" class="border border-1 rounded-pill" style="padding: 0 6px 0 0;"><span class="material-icons" style="vertical-align: bottom;font-size: 24px;margin-left: -2px;">download_for_offline</span>&nbsp;Import .ics to your calendar</a>
   <ul class="list-group list-group-horizontal-md">
     <li class="list-group-item border-0 pl-0">
@@ -247,7 +247,7 @@ showcase: |
   <ul>
     <li>Kubuntu - with KDE Plasma</li>
     <li>Xubuntu - with XFCE</li>
-    <li>Ubuntu Studio - KDE, customed to general studio use</li>
+    <li>Ubuntu Studio - KDE, customized to general studio use</li>
     <li>Lubuntu - with LXQt (formerly with LXDE)</li>
     <li>Ubuntu Kylin - with UKUI</li>
     <li>Ubuntu MATE</li>
@@ -426,10 +426,10 @@ showcase: |
 new_this_year: |
   <ul>
     <li>LTS goodness</li>
-    <li>beginning of a new broad developement cycle that will ultimately lead to a new LTS</li>
-    <li>way more Community actitivities, and participation on Ubuntu, giving a voice to all stakeholders</li>
+    <li>beginning of a new broad development cycle that will ultimately lead to a new LTS</li>
+    <li>way more Community activities, and participation on Ubuntu, giving a voice to all stakeholders</li>
     <li>Ubucons</li>
-    <li>More architectural support + RISC-V (?)</li>
+    <li>More architectural support + RISC-V</li>
     <li>Flutter</li>
   </ul>
 
