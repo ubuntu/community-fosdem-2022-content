@@ -132,10 +132,10 @@ showcase: |
           <p class="badge badge-pill badge-primary">6:00 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">groups</span>Downstream Distro Panel</h5>
           <p class="card-text">
-            Downstream Distro Panel
+            There are some fantastic distros built on top of Ubuntu. Get to know three of them better at our Downstream Distro Panel
           </p>
           <hr class="card-bottom-divider">
-          Regolith/Elementary/Pop!_OS
+          Regolith/elementary OS/Pop!_OS
           </a>
         </div>
       </div>
