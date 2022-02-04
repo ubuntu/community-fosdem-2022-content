@@ -168,7 +168,7 @@ showcase: |
           <p class="badge badge-pill badge-primary">3:00 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">code</span>Flutter Development Video and Q&A</h5>
           <p class="card-text">
-            Flutter Development Video and Q&A
+            Flutter Development Video and Q&A with desktop PM Oliver Smith
           </p>
         </div>
       </div>
@@ -177,7 +177,7 @@ showcase: |
           <p class="badge badge-pill badge-primary">4:00 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">favorite</span>The Ubuntu community structure and how to contribute</h5>
           <p class="card-text">
-            The Ubuntu community structure and how to contribute
+            The Ubuntu community structure and how to contribute with Torsten Franz from the Community Council
           </p>
           <hr class="card-bottom-divider">
           <a href="https://twitter.com/toddyfranz" title="Torsten Franz">
@@ -205,7 +205,7 @@ showcase: |
           <p class="badge badge-pill badge-primary">5:30 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">people</span>Mir Team/Ubuntu Frame live Q&A</h5>
           <p class="card-text">
-            Mir Team/Ubuntu Frame live Q&A
+            Ubuntu Frame post-video live Q&A with members of the Mir Team
           </p>
         </div>
       </div>
@@ -271,7 +271,7 @@ showcase: |
     creativity, and technical ingenuity, there are also derivatives like (but not just):&nbsp;
   </p>
   <ul>
-    <li>Elementary OS</li>
+    <li>elementary OS</li>
     <li>Regotlith</li>
     <li>Linux Mint</li>
     <li>Ubuntu Touch</li>
