@@ -135,6 +135,16 @@ showcase: |
       </div>
       <div class="card">
         <div class="card-body">
+          <p class="badge badge-pill badge-primary">5:00 PM (CET)</p>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">brush</span>All things Kubuntu</h5>
+          <p class="card-text">
+            Find out what will be new in Jammy and how to get involved, especially in documentation!
+          </p>
+          <a href="https://kubuntu.org/" title="Try it out!" class="card-link">Kubuntu</a>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-body">
           <p class="badge badge-pill badge-primary">6:00 PM (CET)</p>
           <h5 class="card-title"><span class="material-icons md-18 mr-1">groups</span>Downstream Distro Panel</h5>
           <p class="card-text">
