@@ -228,7 +228,7 @@ showcase: |
         <div class="card">
         <div class="card-body">
           <p class="badge badge-pill badge-primary">6:30 PM (CET)</p>
-          <h5 class="card-title"><span class="material-icons md-18 mr-1">brush</span>Wrap Party!</h5>
+          <h5 class="card-title"><span class="material-icons md-18 mr-1">celebration</span>Wrap Party!</h5>
           <p class="card-text">
             Everyone and their beverage of choice is welcome as we celebrate being together (virtually) at FOSDEM!
           </p>
