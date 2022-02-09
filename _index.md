@@ -111,6 +111,9 @@ showcase: |
             style="width: 32px;"
             alt="Portrait of Pedro Silva"
             title="Pedro Silva (Collabora)"/></a>
+          <a  href="/stands/ubuntu/fosdem22-contributing-ubuntu-nc-co.pdf"
+            title="Download presentation in PDF"
+            class="btn btn-primary float-right d-sm-flex justify-content-sm-center mt-sm-4 mt-md-0 mt-lg-0 mt-xl-0">Download Slides</a>
         </div>
       </div>
       <div class="card">
@@ -334,9 +337,16 @@ showcase: |
       height: 243px;
       margin-bottom: 0;
       }
-    .badge-primary {
+    .badge-primary, .btn-primary {
+      border-color: #E95420;
       background-color: #E95420;
       color: #fff
+    }
+    .btn-primary:link,
+    .btn-primary:visited,
+    .btn-primary:hover,
+    .btn-primary:active {
+      color: #fff;
     }
     .card {
       border-color: #E95420;
@@ -368,7 +378,7 @@ showcase: |
         border-color: #bfbfbf;
         color: #666;
     }
-    .btn.btn-outline-primary.btn-h-ubuntu:hover {
+    .btn.btn-outline-primary.btn-h-ubuntu:hover, .btn-primary:hover {
         border-color: #E95420;
         color: #E95420;
         background-color: white;
