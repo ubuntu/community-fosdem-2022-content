@@ -134,6 +134,9 @@ showcase: |
               title="Joshua Peisach"
             />
           </a>
+          <a  href="/stands/ubuntu/UbuntuCinnamonDemo.odp"
+            title="Download presentation in ODP"
+            class="btn btn-primary float-right d-sm-flex justify-content-sm-center mt-sm-4 mt-md-0 mt-lg-0 mt-xl-0">Download Slides</a>
         </div>
       </div>
       <div class="card">
